@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30611.23
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Notifications.SignalR.Metrics", "Notifications.SignalR.Metrics\Notifications.SignalR.Metrics.csproj", "{AA3B0E92-3CDA-4A6E-B9E7-927E0B09ACC9}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Notification.SignalR.MetricsWorker", "Notification.SignalR.MetricsWorker\Notification.SignalR.MetricsWorker.csproj", "{620C110D-EDF4-4BCF-BA3C-FA4E5B3418E4}"
 EndProject
 Global
@@ -13,10 +11,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{AA3B0E92-3CDA-4A6E-B9E7-927E0B09ACC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{AA3B0E92-3CDA-4A6E-B9E7-927E0B09ACC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{AA3B0E92-3CDA-4A6E-B9E7-927E0B09ACC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{AA3B0E92-3CDA-4A6E-B9E7-927E0B09ACC9}.Release|Any CPU.Build.0 = Release|Any CPU
 		{620C110D-EDF4-4BCF-BA3C-FA4E5B3418E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{620C110D-EDF4-4BCF-BA3C-FA4E5B3418E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{620C110D-EDF4-4BCF-BA3C-FA4E5B3418E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
